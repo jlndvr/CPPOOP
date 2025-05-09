@@ -5,9 +5,9 @@
 <details>
   <summary><b>🅿️rojects</b></summary>
   
-[Encapsulation: The Secure Banking System](https://github.com/jlndvr/theSecureBankingSystem)  
-[Inheritance: Fusion Kitchen](https://github.com/jlndvr/fusionKitchen)  
-[Polymorphism: Epic Duel](https://github.com/jlndvr/epicDuel)  
-[Abstraction: Virtual Pet Simulation]()
+[Encapsulation: The Secure Banking System (C++)](https://github.com/jlndvr/theSecureBankingSystem)  
+[Inheritance: Fusion Kitchen (C++)](https://github.com/jlndvr/fusionKitchen)  
+[Polymorphism: Epic Duel (C++)](https://github.com/jlndvr/epicDuel)  
+[Abstraction: Virtual Pet Simulation (C++)]()
   
 </details>
